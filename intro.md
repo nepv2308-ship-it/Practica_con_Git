@@ -5,3 +5,6 @@ Soy Nelson Peña, tengo 45 años y estudio ingenieria en sistemas computacionale
 ##tengo mas de 20 años de experiencia en el area de sistemas y educacion
 ## Mis hobbyes son la programacion,
  la lectura y el senderismo
+
+## Seccion de prueba
+Aqui no agreagre nada importante
