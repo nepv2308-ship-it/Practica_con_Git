@@ -8,3 +8,8 @@ Soy Nelson Peña, tengo 45 años y estudio ingenieria en sistemas computacionale
 
 ## Seccion de prueba
 Aqui no agreagre nada importante
+## git checkout . sirve para deshacer los cambios en un archivo o en todos los archivosgit 
+## Tareas que he realizado
+- Tarea de la semana 1
+- Tarea de la semana 2
+- Tarea de la semana 3
